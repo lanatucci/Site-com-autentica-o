@@ -1,0 +1,61 @@
+body {
+    background-color: #CCCCFF;
+    color: #FF4444; 
+}
+
+div.menu {
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    font-size: 30px;
+    color: white; 
+}
+
+a:link {
+    font-size: 30px;
+    color: white;
+    border-left: 1px;
+    text-decoration: none;
+}
+
+a:visited {
+    font-size: 30px;
+    color: rgb(81, 107, 122);
+    border-left: 1px;
+    text-decoration: none;
+}
+
+
+/*ao passar o mouse em cima, irá mudar de cor */
+a:hover {
+
+    font-size: 30px;
+    color: #DDDDDD;
+    text-decoration: none;
+}
+
+div.content{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+thead{
+    color: black;
+    font-size: 35px;
+    background-color: #9999FF;
+}
+
+tr.impar{
+    background-color: #AAAAFF;
+}
+
+tr.par{
+    background-color: #BBBBFF;
+}
+
+td{
+    font-size: 25px;
+    color: black;
+    width: 25%;
+}
