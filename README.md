@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <b>é um sistema de autenticação baseado em PHP, projetado para simplificar o login, o registro e o gerenciamento de usuários em aplicações web. Ele oferece uma arquitetura modular que se integra perfeitamente com bancos de dados MySQL, garantindo o gerenciamento seguro de sessões e de dados dos usuários.</b>
+    <b>É um sistema de autenticação baseado em PHP, projetado para simplificar o login, o registro e o gerenciamento de usuários em aplicações web. Ele oferece uma arquitetura modular que se integra perfeitamente com bancos de dados MySQL, garantindo o gerenciamento seguro de sessões e de dados dos usuários.</b>
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
