@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Software de Tarefas 📌</h1>
+<h1 align="center" style="font-weight: bold;">Sistema de Autenticação📌</h1>
 
 
 <p align="center">
@@ -10,7 +10,6 @@
 
 - PHP
 - MySQL Workbench
-- 
 
 
 <h2 id="routes">📍 Funcionalidades</h2>
@@ -18,16 +17,16 @@
 Este projeto simplifica a implementação de autenticação e gerenciamento seguro de usuários.
 As principais funcionalidades incluem:
 
-Login Seguro e Gerenciamento de Sessões: Lida com a autenticação de usuários com controle de sessão para proteger dados sensíveis.
+- Login Seguro e Gerenciamento de Sessões: Lida com a autenticação de usuários com controle de sessão para proteger dados sensíveis.
 
-Registro de Usuários: Fornece uma interface segura para adicionar novos usuários, integrada ao armazenamento no banco de dados.
+- Registro de Usuários: Fornece uma interface segura para adicionar novos usuários, integrada ao armazenamento no banco de dados.
 
-Listagem e Gerenciamento de Usuários: Exibe os usuários registrados com opções para administração.
+- Listagem e Gerenciamento de Usuários: Exibe os usuários registrados com opções para administração.
 
-Integração com Banco de Dados: Conecta-se facilmente ao MySQL, permitindo operações de dados confiáveis.
+- Integração com Banco de Dados: Conecta-se facilmente ao MySQL, permitindo operações de dados confiáveis.
 
-Arquitetura Modular: Código organizado que facilita a personalização e a manutenção.
+- Arquitetura Modular: Código organizado que facilita a personalização e a manutenção.
 
-Logout e Encerramento de Sessão: Garante o encerramento seguro da sessão e a limpeza de dados da sessão.
+- Logout e Encerramento de Sessão: Garante o encerramento seguro da sessão e a limpeza de dados da sessão.
 
 
